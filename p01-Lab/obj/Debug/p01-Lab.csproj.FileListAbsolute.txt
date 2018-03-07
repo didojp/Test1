@@ -1,0 +1,7 @@
+c:\users\dpetkov\source\repos\Dictionaries2\p01-Lab\bin\Debug\p01-Lab.exe.config
+c:\users\dpetkov\source\repos\Dictionaries2\p01-Lab\bin\Debug\p01-Lab.exe
+c:\users\dpetkov\source\repos\Dictionaries2\p01-Lab\bin\Debug\p01-Lab.pdb
+c:\users\dpetkov\source\repos\Dictionaries2\p01-Lab\obj\Debug\p01-Lab.csprojResolveAssemblyReference.cache
+c:\users\dpetkov\source\repos\Dictionaries2\p01-Lab\obj\Debug\p01-Lab.csproj.CoreCompileInputs.cache
+c:\users\dpetkov\source\repos\Dictionaries2\p01-Lab\obj\Debug\p01-Lab.exe
+c:\users\dpetkov\source\repos\Dictionaries2\p01-Lab\obj\Debug\p01-Lab.pdb
